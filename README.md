@@ -1,4 +1,4 @@
-# SavvyMart-A-Voice-Assistant-Smart-Shopping-Market
+# SavvyMart - A Voice Assistant Smart Shopping Market
 
 SavvyMart is a voice assistant e-commerce website which primarily focuses on meeting the customers’ expectations. As today, customers not only want just a typical shopping website but a lot more than it. Keeping the same in our mind we have worked on this project and gave an amazing transition to the traditional online markets. The whole website of SavvyMart is animated which means whenever a user will click on something he/she will see a lovely animation which makes it interesting to use. Apart from animated user interface, we have also implemented a voice assistant named SAM with the help of which customers can listen to the description of the products instead of just reading it. We have also given importance to language barriers which means SAM can speak both in HINDI and ENGLISH providing a smooth and reliable customer experience. SavvyMart is a multi-vendor online market which means one can not only buy but also can sell their products using this platform.
 
