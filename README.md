@@ -19,21 +19,15 @@ A) Featured Products
 This algorithm showcases the featured products marked by the
 sellers on the home page.
 
-*[ products limit="8" columns="4" visibility="featured" ]*
-
 B) Latest Products
 
 This algorithm showcases the newly arrived products on the
 home page.
 
-*[ products limit="8" columns="4" orderby="id" order="DESC" visibility="visible” ]*
-
 C) Top Selling Products
 
 This algorithm tells the customers about best selling products
 on the home page.
-
-*[ products limit="8" columns="4" best_selling="true" ]*
 
 D) Voice Assistant (SAM)
 
@@ -42,14 +36,10 @@ which is known as SAM to make SavvyMart more user
 friendly. To implement SAM in english language we have
 used the UK English Female voice.
 
-*[ responsivevoice voice=" UK English Female" buttontext="Hi, I am SAM !!" ] [ responsivevoice ]*
-
 2) In Hindi : To remove the language barrier we have
 implemented SAM in Hindi also to provide reliable customer
 experience. For implementing SAM in hindi language we have
 used the Hindi Female voice.
-
-*[ responsivevoice voice="Hindi Female" buttontext="Hi, I am SAM !!" ] [ responsivevoice ]*
 
 ## Modules
 
